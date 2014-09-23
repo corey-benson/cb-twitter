@@ -1,0 +1,7 @@
+ol.tweets { list-style: none; margin: 0px;}
+ol.tweets li { clear: both; padding: 5px; }
+ol.tweets img { float: left; vertical-align: text-top; }
+ol.tweets div.tweet { margin-left: 60px; }
+ol.tweets div.tweet-date { font-size: smaller; clear: both; }
+
+div.twitter-admin-options label { display: inline-block; width: 120px; }
